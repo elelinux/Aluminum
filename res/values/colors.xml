@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resources>
+    <!-- Aluminum -->
+    <color name="aluminum_bright">#ff99c2ec</color>
+    <color name="aluminum_dark">#ff86a9cd</color>
+    <color name="aluminum_main">#ff87afd7</color>
+    <color name="aluminum_transparent">#8087afd7</color>
+    <color name="notification_item_background_color_pressed">#ff5890c7</color>
+    <color name="status_bar_background">#80000000</color>
+    <color name="transparent">#80000000</color>
+    <color name="grey_light">#ffdbd7d2</color>
+    <color name="white">#ffffffff</color>
+
+    <!-- Aluminum extra -->
+    <color name="action_bar_button_text_color">#ff000000</color>
+    <color name="apps_background">#8087afd7</color>
+    <color name="apps_dark">#80000000</color>
+    <color name="apps_foreground">#80000000</color>
+    <color name="books_background">#80000000</color>
+    <color name="books_dark">#80000000</color>
+    <color name="books_foreground">#80000000</color>
+    <color name="bucket_header_info">#ff666666</color>
+    <color name="contact_count_text_color">#ff000000</color>
+    <color name="corpus_selector_active">#ff999999</color>
+    <color name="details_background">#ffa7a7a7</color>
+    <color name="details_review_source_text">#ffffffff</color>
+    <color name="detail_update_tab_text_color">#ff000000</color>
+    <color name="dialtacts_secondary_text_color">#ff000000</color>
+    <color name="loading_background">#ff000000</color>
+    <color name="loading_foreground">#ff555555</color>
+    <color name="main_background">#ff888888</color>
+    <color name="movies_background">#80000000</color>
+    <color name="movies_dark">#80000000</color>
+    <color name="movies_foreground">#80000000</color>
+    <color name="music_background">#80000000</color>
+    <color name="music_dark">#80000000</color>
+    <color name="music_foreground">#80000000</color>
+    <color name="music_play_all">#80000000</color>
+    <color name="people_app_theme_color">#ffbfbfbf</color>
+    <color name="permissions_background">#ffa7a7a7</color>
+    <color name="quickcontact_list_background">#80000000</color>
+    <color name="quickcontact_tab_indicator">#ffbfbfbf</color>
+    <color name="red">#ffbfbfbf</color>
+    <color name="review_histogram_bar">#80000000</color>
+    <color name="section_header_text_color">#ff000000</color>
+    <color name="separator_line">#ffdbd3d3</color>
+    <color name="textColorIconOverlay">#80000000</color>
+    <color name="textColorIconOverlayShadow">#80000000</color>
+    <color name="title_background">#80000000</color>
+    <color name="tos_text_color">#ff000000</color>
+    <color name="uneven_grid_cell_fg_primary">#ff777777</color>
+    <color name="voicemail_playback_ui_background">#80000000</color>
+</resources>
