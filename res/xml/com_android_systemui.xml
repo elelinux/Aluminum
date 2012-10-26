@@ -18,6 +18,8 @@
 
 <resource-redirections>
     <!-- Alunimum style etc.. -->
+    <item name="drawable/status_bar_close">@drawable/status_bar_close</item>
+    <item name="drawable/status_bar_bg">@drawable/status_bar_bg</item>
     <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
     <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
     <item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
@@ -406,6 +408,7 @@
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
     <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
+    <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
     <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
     <item name="drawable/status_bar_expand_default">@drawable/com_android_systemui_status_bar_expand_default</item>
     <item name="drawable/status_bar_expand_pressed">@drawable/com_android_systemui_status_bar_expand_pressed</item>

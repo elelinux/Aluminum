@@ -986,6 +986,8 @@
     <item name="drawable/password_keyboard_background_holo">@drawable/frameworks_res_password_keyboard_background_holo</item>
     <item name="drawable/picture_emergency">@drawable/frameworks_res_picture_emergency</item>
     <item name="drawable/picture_frame">@drawable/frameworks_res_picture_frame</item>
+    <item name="drawable/platlogo">@drawable/platlogo</item>
+    <item name="drawable/platlogo_alt">@drawable/platlogo_alt</item>
     <item name="drawable/pointer_arrow">@drawable/frameworks_res_pointer_arrow</item>
     <item name="drawable/pointer_spot_anchor">@drawable/frameworks_res_pointer_spot_anchor</item>
     <item name="drawable/pointer_spot_hover">@drawable/frameworks_res_pointer_spot_hover</item>
