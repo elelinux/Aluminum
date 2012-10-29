@@ -65,11 +65,24 @@
     <style name="Theme" parent="@android:style/Theme">
         <item name="android:colorBackground">@color/transparent</item>
         <item name="android:windowBackground">@drawable/background_aluminum</item>
-    </style>
+    </style> 
     <style name="Theme.Light" parent="@android:style/Theme">
         <item name="android:colorBackground">@color/transparent</item>
         <item name="android:windowBackground">@drawable/background_aluminum_2</item>
     </style>
+   <!-- Aluminum 2012-10-26-->
+     <style name="Theme.StatusBar" parent="@android:style/Theme">
+        <item name="android:colorBackground">@color/transparent</item>
+        <item name="android:windowBackground">@drawable/com_android_systemui_status_bar_bg_tile</item>
+    </style>
+    <style name="Theme.StatusBar.On" parent="@android:style/Theme">
+        <item name="android:colorBackground">@color/transparent</item>
+        <item name="android:windowBackground">@drawable/com_android_systemui_status_bar_close_on</item>
+    </style>
+    <style name="Theme.StatusBar.Off" parent="@android:style/Theme">
+        <item name="android:colorBackground">@color/transparent</item>
+        <item name="android:windowBackground">@drawable/com_android_systemui_status_bar_close_off</item>
+    </style> 
    <!-- Aluminum 2012-06-23-->
     <style name="Aluminum" parent="@android:style/Theme" />
 </resources>

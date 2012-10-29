@@ -28,6 +28,10 @@
     <color name="grey_light">#ffdbd7d2</color>
     <color name="white">#ffffffff</color>
 
+    <color name="notification_list_shadow_top">#80000000</color>
+    <color name="status_bar_recents_app_label_color">#ffffffff</color>
+    <color name="notification_panel_solid_background">#80000000</color>
+
     <!-- Aluminum extra -->
     <color name="action_bar_button_text_color">#ff000000</color>
     <color name="apps_background">#8087afd7</color>

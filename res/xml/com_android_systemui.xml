@@ -17,7 +17,12 @@
  -->
 
 <resource-redirections>
-    <!-- Alunimum style etc.. -->
+    <!-- Aluminum drawable etc.. -->
+    <item name="drawable/status_bar_close">@drawable/status_bar_close</item>
+    <item name="drawable/status_bar_bg">@drawable/status_bar_bg</item>
+    <item name="drawable/status_bar_item_background">@drawable/status_bar_item_background</item>
+    <item name="drawable/status_bar_recent_background">@drawable/status_bar_recent_background</item>
+    <!-- Aluminum style/colors etc.. -->
     <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
     <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
     <item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
@@ -36,6 +41,9 @@
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
     <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
     <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
+    <item name="style/Theme.StatusBar">@style/Theme.StatusBar</item>
+    <item name="style/Theme.StatusBar.On">@style/Theme.StatusBar.On</item>
+    <item name="style/Theme.StatusBar.Off">@style/Theme.StatusBar.Off</item>
 
     <!-- notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/aluminum_main</item>
@@ -85,6 +93,7 @@
     <item name="drawable/ic_sysbar_search_land">@drawable/com_android_systemui_ic_sysbar_search_land</item>
     <item name="drawable/ic_sysbar_wifi_on">@drawable/com_android_systemui_ic_sysbar_wifi_on</item>
     <item name="drawable/notify_panel_clock_bg_normal">@drawable/com_android_systemui_notify_panel_clock_bg_normal</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
     <item name="drawable/notify_panel_clock_bg_pressed">@drawable/com_android_systemui_notify_panel_clock_bg_pressed</item>
     <item name="drawable/notify_panel_notify">@drawable/com_android_systemui_notify_panel_notify</item>
     <item name="drawable/pocket_drag_pattern">@drawable/com_android_systemui_pocket_drag_pattern</item>
@@ -406,6 +415,7 @@
     <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/com_android_systemui_stat_sys_wifi_signal_4_fully</item>
     <item name="drawable/status_bar_background">@drawable/com_android_systemui_status_bar_background</item>
     <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
+    <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
     <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
     <item name="drawable/status_bar_expand_default">@drawable/com_android_systemui_status_bar_expand_default</item>
     <item name="drawable/status_bar_expand_pressed">@drawable/com_android_systemui_status_bar_expand_pressed</item>
