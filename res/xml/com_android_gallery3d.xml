@@ -17,5 +17,18 @@
  -->
 
 <resource-redirections>
-
+    <item name="mipmap/ic_launcher_gallery">@mipmap/com_android_gallery3d_ic_launcher_gallery</item>
+    <item name="mipmap/ic_launcher_camera">@mipmap/com_android_camera_ic_launcher_camera</item>
+    <item name="drawable/btn_camera_shutter_pressed_holo">@drawable/com_android_camera_btn_camera_shutter_pressed_holo</item>
+    <item name="drawable/btn_camera_shutter_holo">@drawable/com_android_camera_btn_camera_shutter_holo</item>
+    <item name="drawable/btn_video_shutter_recording_pressed_holo">@drawable/com_android_camera_btn_video_shutter_recording_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_holo">@drawable/com_android_camera_btn_video_shutter_holo</item>
+    <item name="drawable/btn_video_shutter_pressed_holo">@drawable/com_android_camera_btn_video_shutter_pressed_holo</item>
+    <item name="drawable/btn_video_shutter_recording_holo">@drawable/com_android_camera_btn_video_shutter_recording_holo</item>
+    <item name="drawable/btn_pan_shutter_pressed_holo">@drawable/com_android_camera_btn_pan_shutter_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_holo">@drawable/com_android_camera_btn_pan_shutter_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_pressed_holo">@drawable/com_android_camera_btn_pan_shutter_recording_pressed_holo</item>
+    <item name="drawable/btn_pan_shutter_recording_holo">@drawable/com_android_camera_btn_pan_shutter_recording_holo</item>
+    <item name="drawable/ic_settings_holo_light">@drawable/com_android_camera_ic_settings_holo_light</item>
+    <item name="drawable/ic_menu_overflow">@drawable/com_android_contacts_ic_menu_overflow</item>
 </resource-redirections>

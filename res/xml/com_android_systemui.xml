@@ -18,10 +18,10 @@
 
 <resource-redirections>
     <!-- Aluminum drawable etc.. -->
+    <item name="drawable/stat_power_background">@drawable/stat_power_background</item>
     <item name="drawable/status_bar_close">@drawable/status_bar_close</item>
     <item name="drawable/status_bar_bg">@drawable/status_bar_bg</item>
     <item name="drawable/status_bar_item_background">@drawable/status_bar_item_background</item>
-    <item name="drawable/status_bar_recent_background">@drawable/status_bar_recent_background</item>
     <!-- Aluminum style/colors etc.. -->
     <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
     <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
@@ -41,9 +41,7 @@
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
     <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
     <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
-    <item name="style/Theme.StatusBar">@style/Theme.StatusBar</item>
-    <item name="style/Theme.StatusBar.On">@style/Theme.StatusBar.On</item>
-    <item name="style/Theme.StatusBar.Off">@style/Theme.StatusBar.Off</item>
+    <item name="style/Theme.Translucent">@style/Theme.Translucent</item>
 
     <!-- notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/aluminum_main</item>
