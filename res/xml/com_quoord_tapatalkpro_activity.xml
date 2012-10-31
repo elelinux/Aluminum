@@ -21,8 +21,6 @@
     <item name="color/app_sectiontitle_yellow">@color/aluminum_main</item>
     <item name="color/date_yellow_bs">@color/aluminum_main</item>
     <item name="color/subtab_color_select_light">@color/aluminum_dark</item>
-    <item name="color/app_background_yellow_highlight">@color/grey_light</item>
-    <item name="color/thread_menu_yellow">@color/grey_light</item>
 
     <item name="drawable/back_click">@drawable/com_quoord_tapatalkpro_activity_back_click</item>
     <item name="drawable/button_click">@drawable/com_quoord_tapatalkpro_activity_button_click</item>

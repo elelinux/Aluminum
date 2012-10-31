@@ -17,25 +17,20 @@
  -->
 
 <resources>
-   <!-- Aluminum ICS / JellyBean -->
+   <!-- Revert to old drawables v1.0.4 2012-10-31 -->
     <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="notification_item_background_color">#80000000</item>
+    <item type="drawable" name="notification_item_background_color_pressed">#80000000</item>
     <item type="drawable" name="ticker_background_color">#80000000</item>
     <item type="drawable" name="status_bar_background">#80000000</item>
-    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#80000000</item>
-    <item type="drawable" name="recents_callout_line">#80000000</item>
-    <item type="drawable" name="notification_item_background_legacy_color">#80000000</item>
-    <drawable name="intruder_bg_pressed">#80000000</drawable> 
-    <drawable name="nav_bar_bg">#80000000</drawable> 
-   <!-- Aluminum ICS -->
-    <item type="drawable" name="notification_item_background_color">#80000000</item>
-    <item type="drawable" name="notification_item_background_color_pressed">#ff87afd7</item>
     <item type="drawable" name="status_bar_recents_background_solid">#80000000</item>
+    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#80000000</item>
     <item type="drawable" name="status_bar_notification_row_background_color">#80000000</item>
     <item type="drawable" name="notification_header_bg">#80000000</item>
     <item type="drawable" name="notification_panel_nofication_icon_bg">#80000000</item>
     <item type="drawable" name="notification_tracking_bg">#80000000</item>
-
-
+    <item type="drawable" name="recents_callout_line">#99bfbfbf</item>
+    <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
    <!-- HTC Stock 2012-06-15-->
     <drawable name="alert_dark_frame">@drawable/frameworks_res_popup_full_dark</drawable>
     <drawable name="alert_light_frame">@drawable/frameworks_res_popup_full_bright</drawable>
@@ -52,6 +47,8 @@
     <item type="drawable" name="screen_background_light_transparent">#80ffffff</item>
     <drawable name="dialog_holo_dark_frame">@drawable/frameworks_res_dialog_full_holo_dark</drawable>
     <drawable name="dialog_holo_light_frame">@drawable/frameworks_res_dialog_full_holo_light</drawable>
+    <item type="drawable" name="status_bar_closed_default_background">#ff000000</item>
+    <item type="drawable" name="status_bar_opened_default_background">#ff000000</item>
     <item type="drawable" name="search_bar_default_color">#ff000000</item>
     <item type="drawable" name="safe_mode_background">#60000000</item>
 </resources>
