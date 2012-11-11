@@ -24,21 +24,46 @@
     <item name="color/highlighted_text_holo_dark">@color/aluminum_main</item>
     <item name="color/highlighted_text_holo_light">@color/aluminum_main</item>
 
+    <!-- Theme Aluminum drawable/ xml files -->
+    <item name="drawable/notification_row_bg">@drawable/com_android_systemui_notification_row_bg</item>
     <item name="drawable/scrubber_progress_horizontal_holo_dark">@drawable/scrubber_progress_horizontal_holo_dark</item>
     <item name="drawable/scrubber_progress_horizontal_holo_light">@drawable/scrubber_progress_horizontal_holo_light</item>
     <item name="drawable/progress_horizontal_holo_dark">@drawable/progress_horizontal_holo_dark</item>
     <item name="drawable/progress_horizontal_holo_light">@drawable/progress_horizontal_holo_light</item>
     <item name="drawable/notification_panel_nofication_icon_bg">@drawable/frameworks_res_notification_panel_nofication_icon_bg</item>
 
-    <!-- battery dep. -->
+    <!-- Theme Aluminum notification backgroud -->
+    <item name="drawable/notification_bg_low_normal">@drawable/frameworks_res_notification_bg_low_normal</item>
+    <item name="drawable/notification_bg_low_pressed">@drawable/frameworks_res_notification_bg_low_pressed</item>
+    <item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
+    <item name="drawable/notification_bg_normal_pressed">@drawable/frameworks_res_notification_bg_normal_pressed</item>
+    <item name="drawable/notification_template_icon_low_bg">@drawable/frameworks_res_notification_template_icon_low_bg</item>
+    <item name="drawable/notification_template_icon_bg">@drawable/frameworks_res_notification_template_icon_bg</item>
+
+    <!-- Theme Aluminum animation style -->
+    <item name="style/Theme">@style/Theme</item> 
+    <item name="style/Animation.Activity">@style/Animation.Activity</item>
+    <item name="style/Animation.Dialog">@style/Animation.Dialog</item>
+    <item name="style/Animation.Translucent">@style/Animation.Translucent</item>
+    <item name="style/Animation.Toast">@style/Animation.Toast</item>
+    <item name="style/Animation.LockScreen">@style/Animation.LockScreen</item>
+    <item name="style/Animation.OptionsPanel">@style/Animation.OptionsPanel</item>
+    <item name="style/Animation.SubMenuPanel">@style/Animation.SubMenuPanel</item>
+    <item name="style/Animation.TypingFilter">@style/Animation.TypingFilter</item>
+    <item name="style/Animation.TypingFilterRestore">@style/Animation.TypingFilterRestore</item>
+    <item name="style/Animation.DropDownDown">@style/Animation.DropDownDown</item>
+    <item name="style/Animation.DropDownUp">@style/Animation.DropDownUp</item>
+    <item name="style/Animation.InputMethodFancy">@style/Animation.InputMethodFancy</item>
+    <item name="style/Animation.SearchBar">@style/Animation.SearchBar</item>
+    <item name="style/Animation.ZoomButtons">@style/Animation.ZoomButtons</item>
+    <item name="style/Animation.Wallpaper">@style/Animation.Wallpaper</item>
+    <item name="style/Animation.RecentApplications">@style/Animation.RecentApplications</item>
+    <item name="style/Animation.VolumePanel">@style/Animation.VolumePanel</item>
+
+    <!-- Aluminum battery dep. -->
     <item name="drawable/stat_sys_battery">@drawable/stat_sys_battery</item>
     <item name="drawable/stat_sys_battery_charge">@drawable/stat_sys_battery_charge</item>
     <item name="drawable/zzz_stat_sys_battery_1">@drawable/zzz_stat_sys_battery_1</item>
-
-    <!-- Theme Aluminum theme style -->
-    <item name="style/Aluminum">@style/Aluminum</item> 
-    <item name="style/Theme">@style/Theme</item> 
-    <item name="style/Theme.Light">@style/Theme.Light</item>
 
     <!-- Theme Aluminum -->
     <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>

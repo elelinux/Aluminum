@@ -16,12 +16,8 @@
  # limitations under the License.
  -->
 
-<layer-list
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:opacity="translucent"
-    >
-    <item
-        android:drawable="@drawable/notification_item_background_color"
-        />
-</layer-list>
-
+<selector android:exitFadeDuration="@*android:integer/config_mediumAnimTime"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/com_android_systemui_notification_item_background_pressed" />
+    <item android:state_pressed="false" android:drawable="@drawable/com_android_systemui_notification_item_background" />
+</selector>

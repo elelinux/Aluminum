@@ -17,36 +17,40 @@
  -->
 
 <resource-redirections>
-    <!-- Aluminum drawable etc.. -->
-    <item name="drawable/stat_power_background">@drawable/stat_power_background</item>
-    <item name="drawable/status_bar_close">@drawable/status_bar_close</item>
-    <item name="drawable/status_bar_bg">@drawable/status_bar_bg</item>
-    <item name="drawable/status_bar_item_background">@drawable/status_bar_item_background</item>
-    <!-- Aluminum style/colors etc.. -->
+    <!-- Aluminum style etc.. -->
     <item name="color/bar_recents_app_label_color">@color/systemui_bar_recents_app_label_color</item>
     <item name="color/notification_list_shadow_top">@color/systemui_notification_list_shadow_top</item>
+    <item name="drawable/notification_row_bg">@drawable/notification_row_bg</item>
     <item name="drawable/notification_header_bg">@drawable/notification_header_bg</item>
     <item name="drawable/notification_item_background_color">@drawable/notification_item_background_color</item>
     <item name="drawable/notification_item_background_color_pressed">@drawable/notification_item_background_color_pressed</item>
     <item name="drawable/notification_number_text_color">@drawable/notification_number_text_color</item>
     <item name="drawable/notification_tracking_bg">@drawable/notification_tracking_bg</item>
-    <item name="drawable/recents_callout_line">@drawable/recents_callout_line</item>
     <item name="drawable/status_bar_background">@drawable/status_bar_background</item>
     <item name="drawable/status_bar_recents_app_thumbnail_background">@drawable/status_bar_recents_app_thumbnail_background</item>
     <item name="drawable/status_bar_recents_background_solid">@drawable/status_bar_recents_background_solid</item>
     <item name="drawable/ticker_background_color">@drawable/ticker_background_color</item>
     <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
-    <item name="style/TextAppearance.StatusBar.Date">@style/TextAppearance.StatusBar.Date</item>
     <item name="style/TextAppearance.StatusBar.IntruderAlert">@style/TextAppearance.StatusBar.IntruderAlert</item>
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
     <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
     <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
-    <item name="style/Theme.Translucent">@style/Theme.Translucent</item>
 
-    <!-- notification pressed color -->
+    <!-- Aluminum update CM10/AOKP-JB -->
+    <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>
+    <item name="drawable/navigationbar_background">@drawable/com_android_systemui_navigationbar_background</item>
+    <item name="drawable/navigationbar_background_land">@drawable/com_android_systemui_navigationbar_background_land</item>
+    <item name="drawable/notification_header_background">@drawable/com_android_systemui_notification_header_background</item>
+    <item name="drawable/notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
+    <item name="drawable/notification_item_background">@drawable/com_android_systemui_notification_item_background</item>
+    <item name="drawable/notification_item_background_pressed">@drawable/com_android_systemui_notification_item_background_pressed</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
+    <item name="drawable/notification_tracking_bg">@drawable/com_android_systemui_notification_tracking_bg</item>
+
+    <!-- Aluminum notification pressed color -->
     <item name="drawable/notification_item_background_color_pressed">@color/aluminum_main</item>
 
-    <!-- battery dep. -->
+    <!-- Aluminum battery dep. -->
     <item name="drawable/stat_sys_battery">@drawable/stat_sys_battery</item>
     <item name="drawable/stat_sys_battery_charge">@drawable/stat_sys_battery_charge</item>
     <item name="drawable/zzz_stat_sys_battery_1">@drawable/zzz_stat_sys_battery_1</item>
