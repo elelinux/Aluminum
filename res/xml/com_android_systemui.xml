@@ -30,11 +30,25 @@
     <item name="drawable/status_bar_recents_app_thumbnail_background">@drawable/status_bar_recents_app_thumbnail_background</item>
     <item name="drawable/status_bar_recents_background_solid">@drawable/status_bar_recents_background_solid</item>
     <item name="drawable/ticker_background_color">@drawable/ticker_background_color</item>
+
     <item name="style/TextAppearance.StatusBar.Clock">@style/TextAppearance.StatusBar.Clock</item>
     <item name="style/TextAppearance.StatusBar.IntruderAlert">@style/TextAppearance.StatusBar.IntruderAlert</item>
     <item name="style/TextAppearance.StatusBar.PhoneTicker">@style/TextAppearance.StatusBar.PhoneTicker</item>
     <item name="style/TextAppearance.StatusBar.SystemPanel">@style/TextAppearance.StatusBar.SystemPanel</item>
     <item name="style/TextAppearance.StatusBar.TextButton">@style/TextAppearance.StatusBar.TextButton</item>
+
+    <item name="style/TextAppearance.Holo.Light.Inverse">@style/TextAppearance.Holo.Light.Inverse</item>
+    <item name="style/TextAppearance.Inverse">@style/TextAppearance.Inverse</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Info">@style/TextAppearance.StatusBar.EventContent.Info</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Line2">@style/TextAppearance.StatusBar.EventContent.Line2</item>
+    <item name="style/TextAppearance.StatusBar.EventContent">@style/TextAppearance.StatusBar.EventContent</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Time">@style/TextAppearance.StatusBar.EventContent.Time</item>
+    <item name="style/TextAppearance.StatusBar.EventContent.Title">@style/TextAppearance.StatusBar.EventContent.Title</item>
+    <item name="style/TextAppearance.StatusBar">@style/TextAppearance.StatusBar</item>
+    <item name="style/TextAppearance.StatusBar.Ticker">@style/TextAppearance.StatusBar.Ticker</item>
+    <item name="style/TextAppearance.StatusBar.Title">@style/TextAppearance.StatusBar.Title</item>
+    <item name="style/TextAppearance.Widget.DropDownHint">@style/TextAppearance.Widget.DropDownHint</item>
+    <item name="style/TextAppearance.Widget.DropDownItem">@style/Theme.Holo.Light.DarkActionBar</item>
 
     <!-- Aluminum update CM10/AOKP-JB -->
     <item name="drawable/nav_bar_bg">@drawable/com_android_systemui_nav_bar_bg</item>

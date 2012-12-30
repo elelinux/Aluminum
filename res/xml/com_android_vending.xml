@@ -17,35 +17,17 @@
  -->
 
 <resource-redirections>
-<!--
-    <item name="color/apps_background">@color/apps_background</item>
-    <item name="color/apps_dark">@color/apps_dark</item>
-    <item name="color/apps_foreground">@color/apps_foreground</item>
-    <item name="color/books_background">@color/books_background</item>
-    <item name="color/books_dark">@color/books_dark</item>
-    <item name="color/books_foreground">@color/books_foreground</item>
-    <item name="color/bucket_header_info">@color/bucket_header_info</item>
-    <item name="color/corpus_selector_active">@color/corpus_selector_active</item>
-    <item name="color/details_background">@color/details_background</item>
-    <item name="color/details_review_source_text">@color/details_review_source_text</item>
-    <item name="color/loading_background">@color/loading_background</item>
-    <item name="color/loading_foreground">@color/loading_foreground</item>
-    <item name="color/main_background">@color/main_background</item>
-    <item name="color/movies_background">@color/movies_background</item>
-    <item name="color/movies_dark">@color/movies_dark</item>
-    <item name="color/movies_foreground">@color/movies_foreground</item>
-    <item name="color/music_background">@color/music_background</item>
-    <item name="color/music_dark">@color/music_dark</item>
-    <item name="color/music_foreground">@color/music_foreground</item>
-    <item name="color/music_play_all">@color/music_play_all</item>
-    <item name="color/permissions_background">@color/permissions_background</item>
-    <item name="color/review_histogram_bar">@color/review_histogram_bar</item>
-    <item name="color/separator_line">@color/separator_line</item>
-    <item name="color/setup_wizard_divider_color">@color/setup_wizard_divider_color</item>
-    <item name="color/setup_wizard_title_color">@color/setup_wizard_title_color</item>
-    <item name="color/title_background">@color/title_background</item>
-    <item name="color/tos_text_color">@color/tos_text_color</item>
-    <item name="color/uneven_grid_cell_fg_primary">@color/uneven_grid_cell_fg_primary</item>  -->
+    <!-- Aluminum Playstore Colors -->
+    <item name="color/apps_background">@color/aluminum_apps_background</item>
+    <item name="color/apps_dark">@color/aluminum_apps_dark</item>
+    <item name="color/apps_foreground">@color/aluminum_apps_foreground</item>
+    <item name="color/books_background">@color/aluminum_books_background</item>
+    <item name="color/corpus_selector_active">@color/aluminum_corpus_selector_active</item>
+    <item name="color/details_review_source_text">@color/aluminum_details_review_source_text</item>
+    <item name="color/package_malware_title_color">@color/aluminum_package_malware_title_color</item>
+    <item name="color/review_histogram_bar">@color/aluminum_review_histogram_bar</item>
+    <item name="color/setup_wizard_title_color">@color/aluminum_setup_wizard_title_color</item>
+    <item name="color/song_highlighted_background">@color/aluminum_song_highlighted_background</item>
 
     <item name="drawable/background_holo_dark">@drawable/vending_background_holo_dark</item>
     <item name="drawable/bkgd_tile_black">@drawable/vending_bkgd_tile_black</item>

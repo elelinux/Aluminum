@@ -27,17 +27,23 @@
     <color name="transparent">#80000000</color>
     <color name="white">#ffffffff</color>
 
-    <!-- Aluminum extra -->
-    <color name="action_bar_button_text_color">#ff000000</color>
-    <color name="apps_background">#ff7ab600</color>
-    <color name="apps_foreground">#ff7ab600</color>
-    <color name="contact_count_text_color">#ff000000</color>
-    <color name="detail_update_tab_text_color">#ff000000</color>
-    <color name="dialtacts_secondary_text_color">#ff000000</color>
-    <color name="main_background">#ff888888</color>
-    <color name="notification_panel_nofication_icon_bg">#80000000</color>
-    <color name="section_header_text_color">#ff000000</color>
-    <color name="separator_line">#ffdbd3d3</color>
-    <color name="title_background">#80000000</color>
-    <color name="tos_text_color">#ff000000</color>
+    <!-- Play Store  -->
+    <color name="aluminum_apps_background">#ff87afd7</color>
+    <color name="aluminum_apps_dark">#ff86a9cd</color>
+    <color name="aluminum_apps_foreground">#ff87afd7</color>
+    <color name="aluminum_books_background">#ff87afd7</color>
+    <color name="aluminum_corpus_selector_active">#ff87afd7</color>
+    <color name="aluminum_details_review_source_text">#ff87afd7</color>
+    <color name="aluminum_package_malware_title_color">#ff87afd7</color>
+    <color name="aluminum_review_histogram_bar">#ff87afd7</color>
+    <color name="aluminum_setup_wizard_title_color">#ff87afd7</color>
+    <color name="aluminum_song_highlighted_background">#ff87afd7</color>
+
+    <!-- HTC Stock -->
+    <color name="background_dark">#ff000000</color>
+    <color name="background_holo_dark">#ff000000</color>
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="background_light">#ffffffff</color>
+    <color name="black">#ff000000</color>
+
 </resources>
