@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ # Copyright (C) 2012 Esa Laukkanen <ele.linux@gmail.com>
+ # Copyright (C) 2012 The Android Open Source Project
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+    <!-- Colors -->
+    <item  name="color/about_swype_links">@color/holo_blue_bright</item>
+    <item  name="color/orange">@color/holo_blue_bright</item>
+    <item  name="color/yellow">@color/holo_blue_bright</item>
+    <item  name="color/preference_theme_highlight">@color/preference_theme_highlight</item>
+    <item  name="color/trace_orange">@color/holo_blue_bright</item>
+    <item  name="color/trace_yellow">@color/holo_blue_bright</item>
+
+    <!-- Drawable -->
+    <item name="drawable/btn_check_buttonless">@drawable/com_nuance_swype_btn_check_buttonless</item>
+    <item name="drawable/btn_keyboard_popup_key_pressed_holo">@drawable/com_nuance_swype_btn_keyboard_popup_key_pressed_holo</item>
+    <item name="drawable/btn_keyboard_popup_key_pressed_pearl">@drawable/com_nuance_swype_btn_keyboard_popup_key_pressed_pearl</item>
+    <item name="drawable/glow_yellow">@drawable/com_nuance_swype_glow_yellow</item>
+    <item name="drawable/glow_orange">@drawable/com_nuance_swype_glow_orange</item>
+    <item name="drawable/holo_btn_keyboard_action_key_checked_5row">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_checked_5row</item>
+    <item name="drawable/holo_btn_keyboard_action_key_checked">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_checked</item>
+    <item name="drawable/holo_btn_keyboard_action_key_checked_bottom">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_checked_bottom</item>
+    <item name="drawable/holo_btn_keyboard_action_key_pressed_5row">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_pressed_5row</item>
+    <item name="drawable/holo_btn_keyboard_action_key_pressed">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_pressed</item>
+    <item name="drawable/holo_btn_keyboard_action_key_pressed_bottom">@drawable/com_nuance_swype_holo_btn_keyboard_action_key_pressed_bottom</item>
+    <item name="drawable/holo_btn_keyboard_key_pressed_5row">@drawable/com_nuance_swype_holo_btn_keyboard_key_pressed_5row</item>
+    <item name="drawable/holo_btn_keyboard_key_pressed">@drawable/com_nuance_swype_holo_btn_keyboard_key_pressed</item>
+    <item name="drawable/holo_btn_keyboard_key_pressed_bottom">@drawable/com_nuance_swype_holo_btn_keyboard_key_pressed_bottom</item>
+    <item name="drawable/hwcl_swype_key_icon_arctic">@drawable/com_nuance_swype_hwcl_swype_key_icon_arctic</item>
+    <item name="drawable/hwcl_swype_key_icon_orange">@drawable/com_nuance_swype_hwcl_swype_key_icon_orange</item>
+    <item name="drawable/ic_btn_check_startup">@drawable/com_nuance_swype_ic_btn_check_startup</item>
+    <item name="drawable/ic_settings_updates_1">@drawable/com_nuance_swype_ic_settings_updates_1</item>
+    <item name="drawable/ic_settings_updates_2">@drawable/com_nuance_swype_ic_settings_updates_2</item>
+    <item name="drawable/ic_settings_updates_plus">@drawable/com_nuance_swype_ic_settings_updates_plus</item>
+    <item name="drawable/ic_welcome_startswyping">@drawable/com_nuance_swype_ic_welcome_startswyping</item>
+    <item name="drawable/keyboard_key_feedback_background_holo">@drawable/com_nuance_swype_keyboard_key_feedback_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_more_background_holo">@drawable/com_nuance_swype_keyboard_key_feedback_more_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_black">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_black</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_holo">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_holo</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_night">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_night</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_pearl">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_pearl</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_silver">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_silver</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_sunrise">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_sunrise</item>
+    <item name="drawable/keyboard_key_feedback_selected_background_white">@drawable/com_nuance_swype_keyboard_key_feedback_selected_background_white</item>
+    <item name="drawable/keyboard_popup_btn_close_pressed_yellow">@drawable/com_nuance_swype_keyboard_popup_btn_close_pressed_yellow</item>
+    <item name="drawable/keyboard_swype_logo_arctic_5row">@drawable/com_nuance_swype_keyboard_swype_logo_arctic_5row</item>
+    <item name="drawable/keyboard_swype_logo_arctic_mini">@drawable/com_nuance_swype_keyboard_swype_logo_arctic_mini</item>
+    <item name="drawable/keyboard_swype_logo_arctic">@drawable/com_nuance_swype_keyboard_swype_logo_arctic</item>
+    <item name="drawable/keyboard_swype_logo_orange_5row">@drawable/com_nuance_swype_keyboard_swype_logo_orange_5row</item>
+    <item name="drawable/keyboard_swype_logo_orange">@drawable/com_nuance_swype_keyboard_swype_logo_orange</item>
+    <item name="drawable/list_selector_background_pressed_yellow">@drawable/com_nuance_swype_list_selector_background_pressed_yellow</item>
+    <item name="drawable/pearl_btn_keyboard_action_key_pressed_5row">@drawable/com_nuance_swype_pearl_btn_keyboard_action_key_pressed_5row</item>
+    <item name="drawable/pearl_btn_keyboard_action_key_pressed">@drawable/com_nuance_swype_pearl_btn_keyboard_action_key_pressed</item>
+    <item name="drawable/pearl_btn_keyboard_key_pressed_5row">@drawable/com_nuance_swype_pearl_btn_keyboard_key_pressed_5row</item>
+    <item name="drawable/pearl_btn_keyboard_key_pressed">@drawable/com_nuance_swype_pearl_btn_keyboard_key_pressed</item>
+    <item name="drawable/sunrise_btn_keyboard_action_key_checked">@drawable/com_nuance_swype_sunrise_btn_keyboard_action_key_checked</item>
+    <item name="drawable/swype_logo">@drawable/com_nuance_swype_swype_logo</item>
+    <item name="drawable/vis01">@drawable/com_nuance_swype_vis01</item>
+    <item name="drawable/vis02">@drawable/com_nuance_swype_vis02</item>
+    <item name="drawable/vis03">@drawable/com_nuance_swype_vis03</item>
+    <item name="drawable/vis04">@drawable/com_nuance_swype_vis04</item>
+    <item name="drawable/vis05">@drawable/com_nuance_swype_vis05</item>
+    <item name="drawable/vis06">@drawable/com_nuance_swype_vis06</item>
+    <item name="drawable/welcome_keyboard">@drawable/com_nuance_swype_welcome_keyboard</item>
+    <item name="drawable/welcome_step1_on">@drawable/com_nuance_swype_welcome_step1_on</item>
+    <item name="drawable/welcome_step2_on">@drawable/com_nuance_swype_welcome_step2_on</item>
+    <item name="drawable/welcome_step3_on">@drawable/com_nuance_swype_welcome_step3_on</item>
+    <item name="drawable/welcome_step4_on">@drawable/com_nuance_swype_welcome_step4_on</item>
+</resource-redirections>

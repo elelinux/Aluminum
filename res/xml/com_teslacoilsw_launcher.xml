@@ -17,6 +17,9 @@
  -->
 
 <resource-redirections>
+    <item name="mipmap/ic_launcher_wallpaper">@mipmap/ic_launcher_wallpaper</item>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
+    <item name="drawable/workspace_bg">@drawable/com_cyanogenmod_trebuchet_workspace_bg</item>
     <item name="drawable/default_widget_preview_holo">@drawable/com_cyanogenmod_trebuchet_default_widget_preview_holo</item>
     <item name="drawable/homescreen_blue_normal_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_normal_holo</item>
     <item name="drawable/homescreen_blue_strong_holo">@drawable/com_cyanogenmod_trebuchet_homescreen_blue_strong_holo</item>
@@ -45,4 +48,42 @@
     <item name="drawable/widget_resize_handle_top">@drawable/com_cyanogenmod_trebuchet_widget_resize_handle_top</item>
     <item name="drawable/ic_allapps">@drawable/com_cyanogenmod_trebuchet_ic_allapps</item>
     <item name="drawable/ic_allapps_pressed">@drawable/com_cyanogenmod_trebuchet_ic_allapps_pressed</item>
+    <item name="drawable/wallpaper_01">@drawable/com_cyanogenmod_trebuchet_wallpaper_01</item>
+    <item name="drawable/wallpaper_02">@drawable/com_cyanogenmod_trebuchet_wallpaper_02</item>
+    <item name="drawable/wallpaper_03">@drawable/com_cyanogenmod_trebuchet_wallpaper_03</item>
+    <item name="drawable/wallpaper_04">@drawable/com_cyanogenmod_trebuchet_wallpaper_04</item>
+    <item name="drawable/wallpaper_05">@drawable/com_cyanogenmod_trebuchet_wallpaper_05</item>
+    <item name="drawable/wallpaper_06">@drawable/com_cyanogenmod_trebuchet_wallpaper_06</item>
+    <item name="drawable/wallpaper_07">@drawable/com_cyanogenmod_trebuchet_wallpaper_07</item>
+    <item name="drawable/wallpaper_08">@drawable/com_cyanogenmod_trebuchet_wallpaper_08</item>
+    <item name="drawable/wallpaper_09">@drawable/com_cyanogenmod_trebuchet_wallpaper_09</item>
+    <item name="drawable/wallpaper_10">@drawable/com_cyanogenmod_trebuchet_wallpaper_10</item>
+    <item name="drawable/wallpaper_11">@drawable/com_cyanogenmod_trebuchet_wallpaper_11</item>
+    <item name="drawable/wallpaper_12">@drawable/com_cyanogenmod_trebuchet_wallpaper_12</item>
+    <item name="drawable/wallpaper_13">@drawable/com_cyanogenmod_trebuchet_wallpaper_13</item>
+    <item name="drawable/wallpaper_14">@drawable/com_cyanogenmod_trebuchet_wallpaper_14</item>
+    <item name="drawable/wallpaper_15">@drawable/com_cyanogenmod_trebuchet_wallpaper_15</item>
+    <item name="drawable/wallpaper_16">@drawable/com_cyanogenmod_trebuchet_wallpaper_16</item>
+    <item name="drawable/wallpaper_17">@drawable/com_cyanogenmod_trebuchet_wallpaper_17</item>
+    <item name="drawable/wallpaper_18">@drawable/com_cyanogenmod_trebuchet_wallpaper_18</item>
+    <item name="drawable/wallpaper_19">@drawable/com_cyanogenmod_trebuchet_wallpaper_19</item>
+    <item name="drawable/wallpaper_01_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_01_small</item>
+    <item name="drawable/wallpaper_02_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_02_small</item>
+    <item name="drawable/wallpaper_03_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_03_small</item>
+    <item name="drawable/wallpaper_04_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_04_small</item>
+    <item name="drawable/wallpaper_05_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_05_small</item>
+    <item name="drawable/wallpaper_06_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_06_small</item>
+    <item name="drawable/wallpaper_07_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_07_small</item>
+    <item name="drawable/wallpaper_08_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_08_small</item>
+    <item name="drawable/wallpaper_09_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_09_small</item>
+    <item name="drawable/wallpaper_10_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_10_small</item>
+    <item name="drawable/wallpaper_11_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_11_small</item>
+    <item name="drawable/wallpaper_12_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_12_small</item>
+    <item name="drawable/wallpaper_13_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_13_small</item>
+    <item name="drawable/wallpaper_14_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_14_small</item>
+    <item name="drawable/wallpaper_15_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_15_small</item>
+    <item name="drawable/wallpaper_16_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_16_small</item>
+    <item name="drawable/wallpaper_17_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_17_small</item>
+    <item name="drawable/wallpaper_18_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_18_small</item>
+    <item name="drawable/wallpaper_19_small">@drawable/com_cyanogenmod_trebuchet_wallpaper_19_small</item>
 </resource-redirections>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/workspace_bg">@drawable/com_anddoes_launcher_workspace_bg</item>
+    <item name="drawable/ic_allapps">@drawable/com_cyanogenmod_trebuchet_ic_allapps</item>
+    <item name="drawable/ic_allapps_pressed">@drawable/com_cyanogenmod_trebuchet_ic_allapps_pressed</item>
+    <item name="drawable/ic_settings_about">@drawable/com_anddoes_launcher_ic_settings_about</item>
+    <item name="drawable/ic_settings_advanced">@drawable/com_anddoes_launcher_ic_settings_advanced</item>
+    <item name="drawable/ic_settings_backup">@drawable/com_anddoes_launcher_ic_settings_backup</item>
+    <item name="drawable/ic_settings_behavior">@drawable/com_anddoes_launcher_ic_settings_behavior</item>
+    <item name="drawable/ic_settings_dock">@drawable/com_anddoes_launcher_ic_settings_dock</item>
+    <item name="drawable/ic_settings_drawer">@drawable/com_anddoes_launcher_ic_settings_drawer</item>
+    <item name="drawable/ic_settings_folder">@drawable/com_anddoes_launcher_ic_settings_folder</item>
+    <item name="drawable/ic_settings_homescreen">@drawable/com_anddoes_launcher_ic_settings_homescreen</item>
+    <item name="drawable/ic_settings_pro">@drawable/com_anddoes_launcher_ic_settings_pro</item>
+    <item name="drawable/ic_settings_restart">@drawable/com_anddoes_launcher_ic_settings_restart</item>
+    <item name="drawable/ic_settings_theme">@drawable/com_anddoes_launcher_ic_settings_theme</item>
+    <item name="drawable/ic_settings_warning">@drawable/com_anddoes_launcher_ic_settings_warning</item>
+    <item name="drawable/hotseat_scrubber_holo">@drawable/hotseat_scrubber_holo</item>
+    <item name="mipmap/ic_launcher_wallpaper">@mipmap/ic_launcher_wallpaper</item>
+</resource-redirections>
